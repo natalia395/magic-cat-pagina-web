@@ -65,5 +65,6 @@ function vaciarcarrito(){
         lista.removeChild(lista.firstChild);
     }
     return false;
+
     
 }
